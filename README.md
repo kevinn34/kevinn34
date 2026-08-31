@@ -12,5 +12,5 @@ Hello Everyone!
 - 🤔 I’m looking to grow my confidence with programming as it can be challenging to dedicate practice time with such a busy schedule.
 - 💬 Ask me about: Why I returned to school?
 - 📫 How to reach me: Student Email Account
-- ⚡ Fun fact: I wrestled at ODU before the program was cut.
+- 🤼‍♂️ Fun fact: I wrestled at ODU before the program was cut.
 -->
