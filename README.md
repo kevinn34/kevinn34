@@ -3,7 +3,7 @@
 <!--
 **kevinn34/kevinn34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello Everyone!
 
 - 🔭 I’m currently working on expanding my familiarity and knowledge of programming languages. I do not currently have any personal projects, but with a lesser workload in the second half of the semester I plan on exploring opportunities later this fall.
 - 👨‍👩‍👦‍👦 I'm currently enrolled in 3 courses while working full time and balancing having a family with my wife of 6 years that consists of two boys aged 3 & 1.
